@@ -1,0 +1,7 @@
+/* styles.css */
+body {
+    background-image: url('/pressedflower01.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

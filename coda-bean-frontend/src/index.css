@@ -1,0 +1,31 @@
+@import 'tailwindcss';
+
+body {
+    font-family: 'retro', cursive;
+    background-color: #f8f8ff;
+    /* Very light background */
+    color: #452f02;
+}
+
+h1 {
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes gentleMove {
+
+    0%,
+    100% {
+        background-position: 0% 0%;
+    }
+
+    50% {
+        background-position: 50px 50px;
+    }
+}
+
+.texture-bg {
+    background-image: url('https://www.transparenttextures.com/patterns/cream-paper.png');
+    animation: gentleMove 60s linear infinite;
+    background-size: 300px 300px;
+    opacity: 0.1;
+}

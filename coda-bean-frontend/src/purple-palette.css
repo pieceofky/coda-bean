@@ -1,0 +1,59 @@
+.bg-lavender {
+    background-color: #E6E6FA;
+}
+
+.bg-light-purple {
+    background-color: #D8BFD8;
+}
+
+.bg-medium-purple {
+    background-color: #9370DB;
+}
+
+.bg-dark-purple {
+    background-color: #6A5ACD;
+}
+
+.bg-deep-purple {
+    background-color: #4B0082;
+}
+
+.text-lavender {
+    color: #E6E6FA;
+}
+
+.text-light-purple {
+    color: #D8BFD8;
+}
+
+.text-medium-purple {
+    color: #9370DB;
+}
+
+.text-dark-purple {
+    color: #6A5ACD;
+}
+
+.text-deep-purple {
+    color: #4B0082;
+}
+
+.border-lavender {
+    border-color: #E6E6FA;
+}
+
+.border-light-purple {
+    border-color: #D8BFD8;
+}
+
+.border-medium-purple {
+    border-color: #9370DB;
+}
+
+.border-dark-purple {
+    border-color: #6A5ACD;
+}
+
+.border-deep-purple {
+    border-color: #4B0082;
+}
